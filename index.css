@@ -1,0 +1,12 @@
+#navbar{
+    display: flex;
+    gap: 30%;
+}
+#navbar>div{
+gap:30px;
+    display: flex;
+}
+#navbar img{
+    width: 100px;
+    /* display: flex; */
+}
